@@ -1,0 +1,98 @@
+.header{
+	height: 35px;
+	width: 1200px;
+	background-color: #34a12c;
+	margin: 5px 75px 10px 75px;
+}
+.header h1{
+	text-align: center;
+	color: white;
+}
+.LargeFeature{
+	height: 350px;
+	width: 1400px;
+	background-color: #bbc1ba ;
+	border: 1px solid #bbc1ba;
+}
+.LargeFeature h1{
+	text-align: center;
+}
+.subheader{
+	height: 35px;
+	width: 1200px;
+	background-color: #674422;
+	margin: 5px 75px 1px 75px;
+	border: 1px solid;
+}
+.subheader h3{
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+}
+.gambar{	
+	display: inline;
+	background-color: white;
+	height: 350px;
+	width: 1200px;
+	margin: 15px 75px 1px 75px;
+}
+.gambar1{
+	background-color: red;
+	height: 350px;
+	width: 380px;
+	float: left;
+	margin-left: 76px;
+	margin-right: 15px;
+}
+.gambar2{
+	background-color: yellow;
+	height: 350px;
+	width: 380px;
+	float:left;	
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.gambar3{
+	background-color: white;
+	height: 350px;
+	width: 380px;
+	float:left;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.penjelasan{	
+	background-color: #ecf0f1;
+	height: 125px;
+	width: 1210px;
+	margin: 355px 75px 1px 75px;
+}
+.penjelasan1{
+	background-color: #3498db;
+	height: 110px;
+	width: 380px;
+	float: left;
+	margin-left: 1px;
+	margin-right: 15px;
+}
+.penjelasan2{
+	background-color: #2ecc71;
+	height: 110px;
+	width: 380px;
+	float:left;	
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.penjelasan3{
+	background-color: #1abc9c;
+	height: 110px;
+	width: 380px;
+	float:left;
+	margin-left: 15px;
+	margin-right: 0px;
+}
+.penjelasan h3{
+	color: #c0392b;
+	position: relative;
+	left: 140px;
+	font-size: 30px; 
+}
